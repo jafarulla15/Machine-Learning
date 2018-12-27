@@ -1,0 +1,7 @@
+
+1. install extension - that should be compatible with your VBox version.
+2. Enable USB option at MainWindows of VBox, select 
+	b. USB 2.o (EHCI) - for usb 2 port.
+	c. USB 3.o (xHCI) - for usb 3 port.
+
+c is working for me well...
